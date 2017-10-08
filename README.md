@@ -4,6 +4,4 @@
 <img height = "175" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eli_Lilly_and_Company.svg/1200px-Eli_Lilly_and_Company.svg.png"/>
 <br>
 
-[Abstract](https://github.com/timothymahajan/Eli-Lilly-Summer-2017-Internship/blob/master/Abstract.pdf)
-[Poster](https://github.com/timothymahajan/Eli-Lilly-Summer-2017-Internship/blob/master/Adverse%20Event.pdf)
-[Poster](https://github.com/timothymahajan/Eli-Lilly-Summer-2017-Internship/blob/master/Pathway%20Project%20Presentation.pptx)
+[Abstract](https://github.com/timothymahajan/Eli-Lilly-Summer-2017-Internship/blob/master/Abstract.pdf) &nbsp [Poster](https://github.com/timothymahajan/Eli-Lilly-Summer-2017-Internship/blob/master/Adverse%20Event.pdf) &nbsp [Presentation](https://github.com/timothymahajan/Eli-Lilly-Summer-2017-Internship/blob/13aa448385d722db660e66bd980092c5202bfc1f/Pathway%20Project%20Presentation.pdf)
